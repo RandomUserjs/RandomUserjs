@@ -1,5 +1,5 @@
 ### Hello there
-I'm trying to be a **_Programmer_** like this cat:
+I want to be a **_Programmer_** like this cat:
 
 ![cat coding](https://github.com/RandomUserjs/RandomUserjs/assets/81786033/8fbcdf80-dc41-4827-8359-cb37528b6340)
 
